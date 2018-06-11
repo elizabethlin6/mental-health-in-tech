@@ -1,0 +1,21 @@
+26 May 2018
+Acquiring the data from kaggle.com, "Mental Health in Tech Survey".
+My motivations: Closing on my freshman year, I think the greatest obstacle me was
+not just overcoming imposter syndrome, but recognizing mental health problems that
+arose throughout the year. Every quarter was different, sometimes you had a comfortable
+group of friends and supporters to rely on. But the next quarter you were thrown
+into independence, working alone on countless weekdays, rarely meeting up with close
+ones. Amidst the isolated island that my mind was floating upon, I questioned the
+effectiveness of independent work. It benefitted my concentration and kept me from
+getting distracted, yet mentally I felt incompetent and isolated from others
+constantly - and worse of all I didn't realize how much this was affecting my
+interactions with others.
+
+#########################
+
+
+We are interested in gauging how mental health is viewed within the tech/IT workplace,
+and the prevalence of certain mental health disorders within the tech industry.
+The Open Sourcing Mental Illness team of volunteers will use this data to drive
+our work in raising awareness and improving conditions for those with mental
+health disorders in the IT workplace.
